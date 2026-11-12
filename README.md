@@ -1,1 +1,1 @@
-# MHFNet
+# [MHFNet: Mamba-driven Hierarchical Fusion Network for High-Resolution Image Restoration (MM Asia 2026)]
